@@ -7,4 +7,6 @@ redirect_from:
   - /resume
 ---
 
-#Por enquanto nada para ver aqui!
+## Educação:
+
+* Cursando Ciência da computação na Universidade Federal da Fronteira Sul
