@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Paulo Sergio Nunes"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Etudante de ciência da computação na Universidade Federal da Fronteira Sul"
   location         : "Chapecó - Santa Catarina"
   employer         :
@@ -99,7 +99,7 @@ author:
   github           : "Paulocc"
   google_plus      :
   keybase          :
-  instagram        : "instagram.com/nunes.paaulo"
+  instagram        : "nunes.paaulo"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "http://steamcommunity.com/id/kirigayan" 
+  steam            : "kirigayan" 
   tumblr           :
   twitter          : "Kirigayan_P"
   vine             :
