@@ -7,30 +7,30 @@ redirect_from:
   - /markdown.html
 ---
 
-##Publicações:
+## Publicações:
 
-*Mostra minhas publicações.
+* Mostra minhas publicações.
 
-##Conferências:
+## Conferências:
 
-*Mostra as conferências já realizadas.
+* Mostra as conferências já realizadas.
 
-##Estudo:
+## Estudo:
 
-*Mostra estudos já realizados ou que estão em progresso.
+* Mostra estudos já realizados ou que estão em progresso.
 
-##Portfolio:
+## Portfolio:
 
-*Mostra meu portofólio.
+* Mostra meu portofólio.
 
-##Posts do Blog:
+## Posts do Blog:
 
-*Mostra as postagens realizadas no blog.
+* Mostra as postagens realizadas no blog.
 
-#CV:
+## CV:
 
-*Mostra minhas experiências profissionais.
+* Mostra minhas experiências profissionais.
 
-#Guia:
+## Guia:
 
-*Mostra o que cada aba possui.
+* Mostra o que cada aba possui.
