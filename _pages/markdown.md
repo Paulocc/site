@@ -34,3 +34,7 @@ redirect_from:
 ## Guia:
 
 * Mostra o que cada aba possui.
+
+## Docs:
+
+*Mostra os documentos disponíveis.
