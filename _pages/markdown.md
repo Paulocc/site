@@ -37,4 +37,4 @@ redirect_from:
 
 ## Docs:
 
-*Mostra os documentos disponíveis.
+* Mostra os documentos disponíveis.
